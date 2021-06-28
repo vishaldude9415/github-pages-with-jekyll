@@ -1,6 +1,7 @@
 ---
 title: "Vishal"
 date: 2021-06-27
+---
 author: GitHub User
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
@@ -14,4 +15,3 @@ github_username:  your-github-handle # DO NOT include the @ character, or else t
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
----
